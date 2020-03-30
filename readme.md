@@ -76,3 +76,12 @@ webpack
 * [Browsers list](https://github.com/browserslist/browserslist) [ Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env ]
 * [React hot loader](https://github.com/gaearon/react-hot-loader)
 * [Webpack dev serve](https://github.com/webpack/webpack-dev-server) 
+
+
+#### To be Improved
+
+* Data can be fetched from the server instead of static file
+* Storybook can be added for comonent based testing
+* Data can be fetched in real time using stream/ websockets etc.
+* Layout display can be improvized.
+* Node level customization can be done on the UI.
